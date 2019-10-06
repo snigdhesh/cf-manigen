@@ -70,4 +70,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 ## Install these
 
-- npm install typeface-roboto --save
+- npm install typeface-roboto --save ( To maintain roboto font)
+-  npm install --save muicss ( https://www.muicss.com/docs/v1/react/introduction, can refer forms for material design here)
+- Material forms reference: https://www.muicss.com/docs/v1/react/forms
